@@ -1,3 +1,10 @@
+## URL to Task-2
+
+http://bucketforegor.s3-website-eu-west-1.amazonaws.com/ - ручная настройка S3 bucket
+https://d1zgmyouri1ec.cloudfront.net - ручная настройка CLoud Front
+http://bucketegortest2.s3-website-eu-west-1.amazonaws.com - S3 auto
+https://d1wg0h7iugv7ya.cloudfront.net - auto Cloud Front
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
