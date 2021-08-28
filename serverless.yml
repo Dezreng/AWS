@@ -1,4 +1,4 @@
-service: bucketegortest2
+service: frontProduct
 
 frameworkVersion: '2'
 
@@ -18,7 +18,7 @@ plugins:
 
 custom:
   client:
-    bucketName:  bucketegortest2
+    bucketName: courcesAWSFront
     distributionFolder: build
   s3BucketName: ${self:custom.client.bucketName}
 
