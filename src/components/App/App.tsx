@@ -15,7 +15,7 @@ import PageProductImport from "components/pages/admin/PageProductImport/PageProd
 
 function App() {
   useEffect(() => {
-    localStorage.setItem('authorization_token','REVaUkVORzoxMjMxMjMxMg==');
+    localStorage.setItem('authorization_token','REVaUkVORzpURVNUX1BBU1NXT1JE');
   },[]);
 
   return (
